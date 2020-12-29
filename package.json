@@ -1,0 +1,17 @@
+{
+  "name": "MyWorkspaces",
+  "version": "0.1.0",
+  "description": "工作空间",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron"
+  ],
+  "author": "Annun",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^11.1.0"
+  },
+}
